@@ -1,6 +1,4 @@
-# employee-carousel
-
-# Employee-Tracker
+# Employee-Carousel
 
 ## ![badge](https://img.shields.io/static/v1?label=Licence&message=MIT&color=blue&style=plastic)
 
