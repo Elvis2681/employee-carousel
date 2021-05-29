@@ -1,4 +1,5 @@
-insert into departments (dept_name) values ("RnD");
+
+insert into departments (dept_name) values ("Research");
 insert into departments (dept_name) values ("Admin");
 insert into departments (dept_name) values ("Accounting");
 
