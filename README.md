@@ -54,7 +54,7 @@ When starting, the user is sent to the main menu and is able to add the credenti
 
 ## Video Link
 
-https://drive.google.com/file/d/1eiuhablpC1_9aVJZqFr-5YBxOuwyIIwA/view?usp=sharing
+https://drive.google.com/drive/folders/1-YGCQ-gtklevSQZ1uIAEj8Nr31d_b1R6?usp=sharing
 
 ## GitHub Page
 
